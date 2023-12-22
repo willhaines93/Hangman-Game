@@ -1,0 +1,18 @@
+1,MONTREAL CANADIENS,Has won the most Stanley cups in NHL history
+1,CHICAGO BLACKHAWKS,Calls the state of Illinois home
+1,TORONTO MAPLE LEAFS,Has not won a playoff series since 2004
+1,BOSTON BRUINS,Their colours consist of black and yellow
+1,LAS VEGAS GOLDEN KNIGHTS,The newest NHL franchise
+1,COLORADO AVALANCHE,Team name is a type of natural disaster
+2,THE INCREDIBLE HULK,Mainly associated with the colour green
+2,SPIDERMAN,Also known as Peter Parker
+2,CAPTAIN AMERICA,A member of the USA army in WWII
+2,THOR,The god of thunder
+2,IRONMAN,Does not have any super powers
+2,THANOS,The main antagonist to the Avengers
+3,FROSTY THE SNOWMAN,The perfect movie to watch around Christmas time
+3,PET SEMATARY,Originally a book written by Stephen King 
+3,GROWN UPS,Cast consists of both Adam Sandler and Kevin James
+3,TOY STORY,A Disney Pixar classic movie
+3,THE MIGHTY DUCKS,Hockey movie that inspired the name of an NHL franchise
+3,STAR WARS,In a galaxy far far away...
